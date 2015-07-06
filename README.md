@@ -1,0 +1,2 @@
+# tryopenmp
+Try some OpenMP
